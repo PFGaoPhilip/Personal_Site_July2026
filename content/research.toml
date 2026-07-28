@@ -1,0 +1,17 @@
+type = "card"
+title = "Research Experience"
+description = "Experimental, analytical, and computational research in interfacial and contact mechanics."
+
+[[items]]
+title = "Laser-Induced Droplet Cavitation for High-Precision Transfer Printing"
+subtitle = "Undergraduate Researcher · Prof. Jizhou Song's Group, Zhejiang University"
+date = "Aug 2024 - Present"
+content = "Designed and implemented an experimental setup to characterize droplet-ejection velocity and trajectory. Analyzed laser-pulse duration and focal-point position to improve breakup stability and transfer accuracy, and contributed to theoretical analysis and experimental design. The work produced experimental demonstrations supporting mechanism and engineering-feasibility analyses and informed optimization of the laser-operation platform."
+tags = ["Transfer Printing", "Experimental Mechanics", "Interfacial Detachment"]
+
+[[items]]
+title = "Hyperelastic Contact and Laser-Transfer Adhesion"
+subtitle = "Summer Research Assistant · Prof. Changhong Linghu, City University of Hong Kong"
+date = "Jul 2026 - Present"
+content = "Modeled low-Poisson-ratio compressible hyperelastic spheres beyond Hertz theory using analytical corrections and finite element simulation, and prepared molds and specimens for compression experiments. Developed a framework separating bottom adhesion, sidewall shear and friction, and geometric interlocking; validated predictions with high-precision ABAQUS contact analyses."
+tags = ["Contact Mechanics", "Hyperelasticity", "ABAQUS", "Adhesion"]

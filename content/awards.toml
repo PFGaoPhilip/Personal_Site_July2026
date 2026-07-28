@@ -1,0 +1,38 @@
+type = "card"
+title = "Honors and Awards"
+description = "Selected academic, innovation, and service recognition."
+
+[[items]]
+title = "Second Prize"
+subtitle = "National Zhou Peiyuan College Students Mechanics Competition"
+date = "2025"
+content = "Top 10% provincially."
+tags = ["Mechanics"]
+
+[[items]]
+title = "Second Prize"
+subtitle = "National College Students Mathematics Competition"
+date = "2024"
+content = "Top 12% nationally."
+tags = ["Mathematics"]
+
+[[items]]
+title = "Third Prize"
+subtitle = "Zhejiang Provincial College Students Mathematics Competition"
+date = "2024"
+content = "Top 20% provincially."
+tags = ["Mathematics"]
+
+[[items]]
+title = "Student Innovation and Entrepreneurship Award"
+subtitle = "Zhejiang University"
+date = "2024 - 2025"
+content = "Top 10%."
+tags = ["Innovation"]
+
+[[items]]
+title = "Certified Five-Star Volunteer"
+subtitle = "Zhejiang University"
+date = "2026"
+content = "Highest rating; top 5%."
+tags = ["Service"]

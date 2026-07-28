@@ -1,0 +1,24 @@
+type = "card"
+title = "Selected Projects"
+description = "Course and design projects spanning finite elements, structural optimization, and dynamics."
+
+[[items]]
+title = "Innovation Design Hub"
+subtitle = "Project-Based Science and Engineering Design Program"
+date = "Apr 2026 - Jun 2026"
+content = "Completed intensive study in mechanics of materials, elasticity, plasticity, fracture mechanics, defect mechanics, and finite element analysis. Applied this progression in design presentations on collision response, fracture, and material-defect assessment. Certified by Prof. Shaker Meguid and Prof. Jizhou Song; received program-completion and group-achievement recognition."
+tags = ["Mechanics", "Engineering Design", "Fracture"]
+
+[[items]]
+title = "Finite Element Modeling and Structural Optimization"
+subtitle = "Finite Element Method Coursework · Zhejiang University"
+date = "Apr 2026 - Jun 2026"
+content = "Applied ABAQUS and a four-node plane-stress model to bicycle-frame optimization, mesh-convergence validation, and nonlinear and elastoplastic analysis of stiffened plates."
+tags = ["Finite Elements", "Optimization", "ABAQUS"]
+
+[[items]]
+title = "Multistory Building Vibration Analysis"
+subtitle = "Vibration Mechanics Course Project · Zhejiang University"
+date = "Sep 2025 - Feb 2026"
+content = "Modeled a four-story frame in MATLAB, calculated natural frequencies and modal matrices, and evaluated amplitude-frequency responses and resonance under periodic wind loading."
+tags = ["Structural Dynamics", "Modal Analysis", "MATLAB"]

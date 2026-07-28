@@ -1,0 +1,30 @@
+type = "about"
+title = "About"
+
+[profile]
+research_interests = [
+  "Interfacial Mechanics",
+  "Transfer Printing",
+  "Stretchable Electronics",
+  "Contact Mechanics",
+  "Finite Element Analysis"
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "About"
+
+[[sections]]
+id = "featured_publications"
+type = "publications"
+title = "Current Manuscript"
+filter = "selected"
+limit = 3
+
+[[sections]]
+id = "news"
+type = "list"
+title = "News"
+source = "news.toml"

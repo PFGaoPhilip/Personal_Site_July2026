@@ -1,0 +1,17 @@
+type = "card"
+title = "Leadership and Service"
+description = "Student leadership and community engagement at Zhejiang University."
+
+[[items]]
+title = "Minister, Quality Development Department"
+subtitle = "Student Union · Department of Engineering Mechanics"
+date = "Oct 2025 - Present"
+content = "Lead college-level extracurricular and volunteer programs, coordinating planning, delivery, and participation."
+tags = ["Leadership", "Student Service"]
+
+[[items]]
+title = "Officer, Academic Department"
+subtitle = "Student Union · Department of Engineering Mechanics"
+date = "Oct 2024 - Sep 2025"
+content = "Contributed to the college course website and organized more than ten faculty-student salon events."
+tags = ["Academic Community", "Event Organization"]

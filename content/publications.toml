@@ -1,0 +1,4 @@
+type = "publication"
+title = "Manuscript"
+description = "Research work currently in preparation."
+source = "publications.bib"
