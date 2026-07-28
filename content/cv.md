@@ -34,6 +34,8 @@ J. Jiang, C. Chen, **P. Gao**, J. Song, “Laser-Induced Droplet Cavitation for 
 
 T. Mu, **P. Gao**, et al., “Large-Deformation Contact Mechanics of Compressible Hyperelastic Spheres” manuscript in preparation, 2026. Expected submission in 2027.
 
+C. Chen, **P. Gao**, et al., “Mechanics, Interfaces, and Adaptive Strategies in Transfer Printing” manuscript in preparation, 2026. Expected submission in 2027.
+
 ## Selected Projects
 
 - **Innovation Design Hub** — Completed intensive study spanning mechanics of materials, elasticity, plasticity, fracture mechanics, defect mechanics, and finite element analysis; applied this progression in course-design presentations on collision response, fracture, and material-defect assessment. Certified by **Prof. Shaker Meguid** (University of Toronto) and **Prof. Jizhou Song** (Zhejiang University); April–June 2026.
