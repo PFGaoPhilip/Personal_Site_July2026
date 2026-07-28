@@ -3,11 +3,10 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Interfacial Mechanics",
-  "Transfer Printing",
-  "Stretchable Electronics",
-  "Contact Mechanics",
-  "Finite Element Analysis"
+  "Heterogeneous interfacial detachment",
+  "Stretchable electronics",
+  "Transfer printing",
+  "Contact mechanics"
 ]
 
 [[sections]]
