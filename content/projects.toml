@@ -1,5 +1,5 @@
 type = "card"
-title = "Selected Projects"
+title = "Selected Course Projects"
 description = "Course and design projects spanning finite elements, structural optimization, and dynamics."
 
 [[items]]

@@ -44,7 +44,7 @@ target = "research"
 href = "/research"
 
 [[navigation]]
-title = "Projects"
+title = "Other Projects"
 type = "page"
 target = "projects"
 href = "/projects"
