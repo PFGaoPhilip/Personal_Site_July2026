@@ -68,7 +68,7 @@ target = "leadership"
 href = "/leadership"
 
 [[navigation]]
-title = "CV"
+title = "Curriculum Vitae"
 type = "page"
 target = "cv"
 href = "/cv"

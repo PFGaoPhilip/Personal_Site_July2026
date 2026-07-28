@@ -43,6 +43,7 @@ Jiang J., Chen C., **Gao P.**, Song J., “Laser-Induced Droplet Cavitation for 
 - Second Prize, National Zhou Peiyuan College Students Mechanics Competition (top 10% provincially), 2025
 - Second Prize, National College Students Mathematics Competition (top 12% nationally), 2024
 - Third Prize, Zhejiang Provincial College Students Mathematics Competition (top 20% provincially), 2024
+- Third-Class Scholarship, Zhejiang University (top 20%), 2023–2024
 - Student Innovation and Entrepreneurship Award, Zhejiang University (top 10%), 2024-2025
 - Certified Five-Star Volunteer, Zhejiang University (highest rating; top 5%), 2026
 

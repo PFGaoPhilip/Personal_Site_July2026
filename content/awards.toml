@@ -24,6 +24,13 @@ content = "Top 20% provincially."
 tags = ["Mathematics"]
 
 [[items]]
+title = "Third-Class Scholarship"
+subtitle = "Zhejiang University"
+date = "2023–2024"
+content = "Top 20%."
+tags = ["Scholarship"]
+
+[[items]]
 title = "Student Innovation and Entrepreneurship Award"
 subtitle = "Zhejiang University"
 date = "2024 - 2025"
