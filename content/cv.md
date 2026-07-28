@@ -30,19 +30,20 @@ Prof. Changhong Linghu, City University of Hong Kong
 
 ## Manuscript in Preparation
 
-Jiang J., Chen C., **Gao P.**, Song J., “Laser-Induced Droplet Cavitation for High-Precision Droplet Transfer Printing,” manuscript in preparation, 2026. Expected submission to *Advanced Materials Technologies* before October 2026.
+J. Jiang, C. Chen, **P. Gao**, J. Song, “Laser-Induced Droplet Cavitation for High-Precision Droplet Transfer Printing” manuscript in preparation, 2026. Expected submission to *Advanced Materials Technologies* before October 2026.
+
+T. Mu, **P. Gao**, et al., “Large-Deformation Contact Mechanics of Compressible Hyperelastic Spheres” manuscript in preparation, 2026. Expected submission in 2027.
 
 ## Selected Projects
 
-- **Innovation Design Hub** - Project-based study in solid mechanics, fracture mechanics, defect mechanics, and finite element analysis; April-June 2026.
-- **Finite Element Modeling and Structural Optimization** - Bicycle-frame optimization, mesh-convergence validation, and nonlinear and elastoplastic analysis in ABAQUS; April-June 2026.
-- **Multistory Building Vibration Analysis** - MATLAB modeling of modal properties and amplitude-frequency response under periodic wind loading; September 2025-February 2026.
+- **Innovation Design Hub** — Completed intensive study spanning mechanics of materials, elasticity, plasticity, fracture mechanics, defect mechanics, and finite element analysis; applied this progression in course-design presentations on collision response, fracture, and material-defect assessment. Certified by **Prof. Shaker Meguid** (University of Toronto) and **Prof. Jizhou Song** (Zhejiang University); April–June 2026.
+- **Finite Element Modeling and Structural Optimization** — Applied ABAQUS and a four-node plane-stress model to bicycle-frame optimization, mesh-convergence validation, and nonlinear and elastoplastic analysis of stiffened plates; April–June 2026.
+- **Multistory Building Vibration Analysis** — Modeled a four-story frame in MATLAB, calculated natural frequencies and modal matrices, and evaluated amplitude–frequency responses and resonance under periodic wind loading; September 2025–February 2026.
 
 ## Honors and Awards
 
 - Second Prize, National Zhou Peiyuan College Students Mechanics Competition (top 10% provincially), 2025
 - Second Prize, National College Students Mathematics Competition (top 12% nationally), 2024
-- Third Prize, Zhejiang Provincial College Students Mathematics Competition (top 20% provincially), 2024
 - Third-Class Scholarship, Zhejiang University (top 20%), 2023–2024
 - Student Innovation and Entrepreneurship Award, Zhejiang University (top 10%), 2024-2025
 - Certified Five-Star Volunteer, Zhejiang University (highest rating; top 5%), 2026
