@@ -39,8 +39,8 @@ C. Chen, **P. Gao**, et al., “Mechanics, Interfaces, and Adaptive Strategies i
 ## Selected Projects
 
 - **Innovation Design Hub** — Completed intensive study spanning mechanics of materials, elasticity, plasticity, fracture mechanics, defect mechanics, and finite element analysis; applied this progression in course-design presentations on collision response, fracture, and material-defect assessment. Certified by **Prof. Shaker Meguid** (University of Toronto) and **Prof. Jizhou Song** (Zhejiang University); April–June 2026.
-- **Finite Element Modeling and Structural Optimization** — Applied ABAQUS and a four-node plane-stress model to bicycle-frame optimization, mesh-convergence validation, and nonlinear and elastoplastic analysis of stiffened plates; April–June 2026.
-- **Multistory Building Vibration Analysis** — Modeled a four-story frame in MATLAB, calculated natural frequencies and modal matrices, and evaluated amplitude–frequency responses and resonance under periodic wind loading; September 2025–February 2026.
+- **Finite Element Modeling and Structural Optimization** — Finite Element Method Coursework, Prof. Jizhou Song, Zhejiang University; applied ABAQUS and a four-node plane-stress model to bicycle-frame optimization, mesh-convergence validation, and nonlinear and elastoplastic analysis of stiffened plates; April–June 2026.
+- **Multistory Building Vibration Analysis** — Vibration Mechanics Course Project, Prof. Guoxing Lu, Zhejiang University; modeled a four-story frame in MATLAB, calculated natural frequencies and modal matrices, and evaluated amplitude–frequency responses and resonance under periodic wind loading; September 2025–February 2026.
 
 ## Honors and Awards
 
