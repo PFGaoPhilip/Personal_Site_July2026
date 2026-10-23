@@ -1,3 +1,11 @@
+**Email:** [pengfg@umich.edu](mailto:pengfg@umich.edu)
+
+## Download PDF CV
+
+[Guo-first CV (PDF)](/Personal_Site_July2026/cv/G-S/Pengfei_Gao_CV.pdf) · [Song-first CV (PDF)](/Personal_Site_July2026/cv/S-G/Pengfei_Gao_CV.pdf)
+
+Both PDFs contain the same information. Their research experiences appear in different orders.
+
 ## Education
 
 **Zhejiang University, China**  
@@ -11,30 +19,49 @@ Bachelor of Engineering in Engineering Mechanics, expected June 2027
 
 ## Research Experience
 
-**Undergraduate Researcher**  
-Research Group of Prof. Jizhou Song, Zhejiang University  
-*August 2024 - Present*
+### Graduation Design · September 2026–Present
 
-- Designed and implemented an experimental setup for laser-induced droplet transfer printing.
-- Characterized droplet-ejection velocity and trajectory and analyzed laser-pulse duration and focal-point position.
+**Exchange Visit** to **Prof. L. Jay Guo**'s Research Group, University of Michigan
+
+*Topic: Laser-Driven Perfluorocarbon Droplet Cavitation Transfer*
+
+Developed analytical and COMSOL models linking laser heating and perfluorocarbon phase change to cavitation, jet formation, and transmitted loads. Examined finite PFC inventory and energy budgets, and compared liquid and hydrogel environments to guide transfer-printing experiments.
+
+**Expected arrival at University of Michigan in December, 2026.**
+
+### Undergraduate Researcher · August 2024–Present
+
+**Prof. Jizhou Song**'s Research Group, Zhejiang University
+
+*Topic: Laser Droplet Transfer Printing*
+
+- Designed and built an experimental setup for laser-induced droplet transfer printing.
+- Measured ejection velocity and trajectory, and studied laser-pulse duration and focal-point position.
 - Contributed to theoretical analysis, experimental design, and optimization of the laser-operation platform.
+- Produced feasibility demonstrations supporting the transfer-printing study.
 - Selected for Zhejiang University's College-Level Scientific Research Training Program.
 
-**Summer Research Assistant**  
-Prof. Changhong Linghu, City University of Hong Kong  
-*July 2026 - Present*
+### Summer Research Assistant · July–October 2026
 
-- Modeled low-Poisson-ratio compressible hyperelastic spheres beyond Hertz theory using analytical corrections and finite element simulation.
-- Prepared CAD and 3D-printed molds and foam hemispheres for displacement-controlled compression experiments.
-- Developed an adhesion-contact framework and conducted high-precision ABAQUS analyses of vertical and undercut sidewalls.
+**Prof. Changhong Linghu**'s Research Group, City University of Hong Kong
 
-## Manuscript in Preparation
+*Topics: Hyperelastic-Sphere Contact; Laser-Transfer Confinement and Adhesion*
 
-J. Jiang, C. Chen, **P. Gao**, J. Song, “Laser-Induced Droplet Cavitation for High-Precision Droplet Transfer Printing” manuscript in preparation, 2026. Expected submission to *Advanced Materials Technologies* before October 2026.
+- Modeled compressible hyperelastic spheres beyond Hertz theory using analytical corrections and finite element simulation.
+- Prepared CAD models, 3D-printed molds, and foam hemispheres for displacement-controlled compression experiments.
+- Developed an adhesion framework separating bottom adhesion, sidewall shear and friction, and geometric interlocking.
+- Performed ABAQUS analyses of vertical and undercut sidewalls.
 
-T. Mu, **P. Gao**, et al., “Large-Deformation Contact Mechanics of Compressible Hyperelastic Spheres” manuscript in preparation, 2026. Expected submission in 2027.
+## Manuscript Under Review
 
-C. Chen, **P. Gao**, et al., “Mechanics, Interfaces, and Adaptive Strategies in Transfer Printing” manuscript in preparation, 2026. Expected submission in 2027.
+C. Chen, J. Jiang, **P. Gao**, C. Huang, C. Li, C. Shi, J. Song, “Reusable Laser-Driven Droplet Stamp Transfer Printing via Laser-Induced Cavitation Jet Actuation,” *Advanced Functional Materials*, under review, 2026.
+
+## Manuscripts in Preparation
+
+1. **P. Gao**, L. J. Guo, “Laser-Driven Perfluorocarbon Droplet Cavitation Transfer,” manuscript in preparation, 2026. Expected submission in 2027.
+2. T. Mu, **P. Gao**, et al., “Large-Deformation Contact Mechanics of Compressible Hyperelastic Spheres,” manuscript in preparation, 2026. Expected submission in 2027.
+3. T. Mu, **P. Gao**, et al., “Confined Adhesion in Laser Transfer Printing,” manuscript in preparation, 2026. Expected submission in 2027.
+4. C. Chen, **P. Gao**, et al., “Mechanics, Interfaces, and Adaptive Strategies in Transfer Printing,” manuscript in preparation, 2026. Expected submission in 2027.
 
 ## Selected Projects
 

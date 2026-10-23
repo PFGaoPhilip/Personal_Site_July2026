@@ -18,9 +18,9 @@ title = "About"
 [[sections]]
 id = "featured_publications"
 type = "publications"
-title = "Current Manuscript"
+title = "Current Manuscripts"
 filter = "selected"
-limit = 3
+limit = 2
 
 [[sections]]
 id = "news"

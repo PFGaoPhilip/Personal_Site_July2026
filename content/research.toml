@@ -1,17 +1,44 @@
 type = "card"
 title = "Research Experience"
-description = "Experimental, analytical, and computational research in interfacial and contact mechanics."
+description = "Experimental, analytical, and computational research in laser-driven transfer printing, cavitation, contact, and adhesion."
 
 [[items]]
-title = "Laser-Induced Droplet Cavitation for High-Precision Transfer Printing"
-subtitle = "Undergraduate Researcher · Prof. Jizhou Song's Group, Zhejiang University"
+title = "Laser-Driven Perfluorocarbon Droplet Cavitation Transfer"
+subtitle = "Graduation Design · Exchange Visit to Prof. L. Jay Guo's Research Group, University of Michigan"
+date = "Sep 2026 - Present"
+content = '''
+**Topic:** Laser-Driven Perfluorocarbon Droplet Cavitation Transfer.
+
+**Contributions:** Developed analytical and COMSOL models linking laser heating and perfluorocarbon (PFC) phase change to cavitation, jet formation, and transmitted loads. Examined the role of finite PFC inventory and energy budgets, and compared liquid and hydrogel environments to guide transfer-printing experiments.
+
+**Expected arrival at University of Michigan in December, 2026.**
+'''
+tags = ["Laser Cavitation", "Perfluorocarbon Droplets", "Multiphysics Modeling", "COMSOL", "Transfer Printing"]
+
+[[items]]
+title = "Laser Droplet Transfer Printing"
+subtitle = "Undergraduate Researcher · Prof. Jizhou Song's Research Group, Zhejiang University"
 date = "Aug 2024 - Present"
-content = "Designed and implemented an experimental setup to characterize droplet-ejection velocity and trajectory. Analyzed laser-pulse duration and focal-point position to improve breakup stability and transfer accuracy, and contributed to theoretical analysis and experimental design. The work produced experimental demonstrations supporting mechanism and engineering-feasibility analyses and informed optimization of the laser-operation platform."
-tags = ["Transfer Printing", "Experimental Mechanics", "Interfacial Detachment"]
+content = '''
+**Topic:** Laser Droplet Transfer Printing.
+
+**Contributions:** Designed and built an experimental setup for laser-induced droplet transfer printing. Measured droplet-ejection velocity and trajectory, studied laser-pulse duration and focal-point position, and supported theoretical analysis and experimental design.
+
+**Outcomes:** Produced feasibility demonstrations and optimized the laser-operation platform. The associated manuscript, *Reusable Laser-Driven Droplet Stamp Transfer Printing via Laser-Induced Cavitation Jet Actuation*, studies capillary pickup and laser-induced cavitation-jet release using reusable droplet stamps.
+
+**Selected for the College-Level Scientific Research Training Program of Zhejiang University.**
+'''
+tags = ["Transfer Printing", "Experimental Mechanics", "Droplet Stamps", "Interfacial Detachment"]
 
 [[items]]
 title = "Hyperelastic Contact and Laser-Transfer Adhesion"
-subtitle = "Summer Research Assistant · Prof. Changhong Linghu, City University of Hong Kong"
-date = "Jul 2026 - Present"
-content = "Modeled low-Poisson-ratio compressible hyperelastic spheres beyond Hertz theory using analytical corrections and finite element simulation, and prepared molds and specimens for compression experiments. Developed a framework separating bottom adhesion, sidewall shear and friction, and geometric interlocking; validated predictions with high-precision ABAQUS contact analyses."
-tags = ["Contact Mechanics", "Hyperelasticity", "ABAQUS", "Adhesion"]
+subtitle = "Summer Research Assistant · Prof. Changhong Linghu's Research Group, City University of Hong Kong"
+date = "Jul 2026 - Oct 2026"
+content = '''
+**Topics:** Hyperelastic-Sphere Contact; Laser-Transfer Confinement and Adhesion.
+
+**Hyperelastic contact:** Modeled low-Poisson-ratio compressible hyperelastic spheres beyond Hertz theory through analytical corrections and finite element simulation. Prepared CAD models, 3D-printed molds, and foam hemispheres for displacement-controlled compression experiments measuring force-displacement response and evolving contact geometry.
+
+**Confined adhesion:** Developed a framework separating bottom adhesion, sidewall shear and friction, and geometric interlocking. Performed ABAQUS analyses of vertical and undercut sidewalls to investigate confinement in laser transfer printing.
+'''
+tags = ["Contact Mechanics", "Hyperelasticity", "ABAQUS", "Adhesion", "Compression Experiments"]

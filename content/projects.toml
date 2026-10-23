@@ -1,6 +1,6 @@
 type = "card"
 title = "Selected Course Projects"
-description = "Course and design projects spanning finite elements, structural optimization, and dynamics."
+description = "A broader project record spanning engineering design, finite elements, structural optimization, and dynamics."
 
 [[items]]
 title = "Innovation Design Hub"

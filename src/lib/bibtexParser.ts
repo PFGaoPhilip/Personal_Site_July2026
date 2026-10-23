@@ -1,4 +1,4 @@
-import { Publication, PublicationType, ResearchArea } from '@/types/publication';
+import { Publication, PublicationStatus, PublicationType, ResearchArea } from '@/types/publication';
 import { getConfig } from './config';
 import { getRuntimeI18nConfig } from './i18n/config';
 import { parseBibTeXInline } from './bibtexInline';
@@ -16,7 +16,7 @@ const typeMapping: Record<string, PublicationType> = {
   phdthesis: 'thesis',
   mastersthesis: 'thesis',
   techreport: 'technical-report',
-  unpublished: 'preprint',
+  unpublished: 'manuscript',
   misc: 'preprint',
 };
 
@@ -63,6 +63,11 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
     // Parse preview field (remove braces if present)
     const preview = tags.preview?.replace(/[{}]/g, '');
     const title = parseBibTeXInline(tags.title || 'Untitled');
+    const statuses: PublicationStatus[] = ['published', 'accepted', 'under-review', 'submitted', 'in-preparation', 'draft'];
+    const requestedStatus = tags.status?.toLowerCase().trim() as PublicationStatus;
+    const status = statuses.includes(requestedStatus)
+      ? requestedStatus
+      : entry.entryType.toLowerCase() === 'unpublished' ? 'in-preparation' : 'published';
 
     // Create publication object
     const publication: Publication = {
@@ -73,7 +78,7 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       year,
       month: monthMapping[tags.month?.toLowerCase()] ? String(month) : tags.month,
       type,
-      status: 'published',
+      status,
       tags: keywords,
       keywords,
       researchArea: detectResearchArea(tags.title, keywords),
@@ -89,11 +94,12 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       code: tags.code,
       abstract: cleanBibTeXString(tags.abstract),
       description: cleanBibTeXString(tags.description || tags.note),
+      note: cleanBibTeXString(tags.note),
       selected,
       preview,
 
       // Store original BibTeX (excluding custom fields)
-      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code']),
+      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code', 'status']),
     };
 
     // Clean up undefined fields
@@ -105,6 +111,10 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
 
     return publication;
   }).sort((a: Publication, b: Publication) => {
+    const statusOrder: Record<PublicationStatus, number> = {
+      published: 0, accepted: 1, 'under-review': 2, submitted: 3, 'in-preparation': 4, draft: 5,
+    };
+    if (a.status !== b.status) return statusOrder[a.status] - statusOrder[b.status];
     // Sort by year (descending), then by month if available
     if (b.year !== a.year) return b.year - a.year;
 

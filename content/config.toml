@@ -2,7 +2,7 @@
 title = "Pengfei Gao"
 description = "Academic portfolio of Pengfei Gao, an undergraduate researcher in engineering mechanics at Zhejiang University."
 favicon = "/Personal_Site_July2026/favicon.svg"
-last_updated = "July 2026"
+last_updated = "October 2026"
 
 [author]
 name = "Pengfei Gao"
@@ -11,7 +11,7 @@ institution = "Zhejiang University"
 avatar = "/Personal_Site_July2026/pengfei-gao.jpg"
 
 [social]
-email = "3230100931@zju.edu.cn"
+email = "pengfg@umich.edu"
 location = "Hangzhou, China"
 github = "https://github.com/PFGaoPhilip"
 
@@ -50,7 +50,7 @@ target = "projects"
 href = "/projects"
 
 [[navigation]]
-title = "Manuscript"
+title = "Manuscripts"
 type = "page"
 target = "publications"
 href = "/publications"
