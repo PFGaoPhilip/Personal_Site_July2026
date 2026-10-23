@@ -2,9 +2,7 @@
 
 ## Download PDF CV
 
-[Guo-first CV (PDF)](/Personal_Site_July2026/cv/G-S/Pengfei_Gao_CV.pdf) · [Song-first CV (PDF)](/Personal_Site_July2026/cv/S-G/Pengfei_Gao_CV.pdf)
-
-Both PDFs contain the same information. Their research experiences appear in different orders.
+[Download CV (PDF)](/Personal_Site_July2026/cv/Pengfei_Gao_CV.pdf)
 
 ## Education
 

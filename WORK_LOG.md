@@ -7,8 +7,14 @@
 - Retained the broader website record, including all three course projects and existing additional awards and service details.
 - Corrected the laser-droplet manuscript title and seven-author order, and listed it under review at Advanced Functional Materials.
 - Added the Michigan and confined-adhesion manuscripts. Kept the Michigan entry first among the four manuscripts in preparation, all dated 2026 with expected submission in 2027.
-- Added both approved Guo-first and Song-first PDF CVs, each named Pengfei_Gao_CV.pdf.
+- Added a downloadable PDF CV named Pengfei_Gao_CV.pdf.
 - Rendered explicit manuscript-status sections and notes, and retained searchable/exportable BibTeX entries.
 - Improved manuscript contrast in dark mode and kept date badges on one line on mobile.
-- Production build, lint, and TypeScript validation passed. Twenty browser checks passed across desktop/mobile layouts, light/dark themes, navigation, manuscript search, and both exact PDF downloads, with no browser page errors or failed asset requests.
+- Production build, lint, and TypeScript validation passed. Browser checks passed across desktop/mobile layouts, light/dark themes, navigation, manuscript search, and the PDF download, with no browser page errors or failed asset requests.
 - Tested the static export from a separate delivery folder with external asset requests blocked. The existing GitHub Pages workflow publishes the validated source when main is updated.
+
+## 2026-10-23 — Public CV download
+
+- Published the current CV at the neutral path `cv/Pengfei_Gao_CV.pdf`.
+- Labeled the public link `Download CV (PDF)`.
+- Updated the biography and repository documentation to describe the public download.

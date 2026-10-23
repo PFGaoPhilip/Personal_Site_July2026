@@ -11,8 +11,7 @@ Live site: https://pfgaophilip.github.io/Personal_Site_July2026/
 - `content/projects.toml`: the broader course-project record.
 - `content/publications.bib`: manuscript authorship, status, year, and descriptions.
 - `content/cv.md`: detailed online CV.
-- `public/cv/G-S/Pengfei_Gao_CV.pdf`: Guo-first PDF CV.
-- `public/cv/S-G/Pengfei_Gao_CV.pdf`: Song-first PDF CV.
+- `public/cv/Pengfei_Gao_CV.pdf`: downloadable PDF CV.
 
 The website retains project, award, and service details beyond the compact PDF CVs. The Michigan manuscript is first within Manuscripts in Preparation.
 

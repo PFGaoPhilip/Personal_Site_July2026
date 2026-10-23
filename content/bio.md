@@ -8,4 +8,4 @@ From July to October 2026, I worked with **Prof. Changhong Linghu** at **City Un
 
 I expect to complete my Bachelor of Engineering in June 2027 and am preparing for doctoral study in mechanics and related areas.
 
-[View my full CV and download the PDF versions](/Personal_Site_July2026/cv/).
+[View my full CV and download the PDF](/Personal_Site_July2026/cv/).
