@@ -17,16 +17,6 @@ Bachelor of Engineering in Engineering Mechanics, expected June 2027
 
 ## Research Experience
 
-### Graduation Design · September 2026–Present
-
-**Exchange Visit** to **Prof. L. Jay Guo**'s Research Group, University of Michigan
-
-*Topic: Laser-Driven Perfluorocarbon Droplet Cavitation Transfer*
-
-Developed analytical and COMSOL models linking laser heating and perfluorocarbon phase change to cavitation, jet formation, and transmitted loads. Examined finite PFC inventory and energy budgets, and compared liquid and hydrogel environments to guide transfer-printing experiments.
-
-**Expected arrival at University of Michigan in December, 2026.**
-
 ### Undergraduate Researcher · August 2024–Present
 
 **Prof. Jizhou Song**'s Research Group, Zhejiang University
@@ -39,6 +29,16 @@ Developed analytical and COMSOL models linking laser heating and perfluorocarbon
 - Produced feasibility demonstrations supporting the transfer-printing study.
 - Selected for Zhejiang University's College-Level Scientific Research Training Program.
 
+### Graduation Design · September 2026–Present
+
+**Exchange Visit** to **Prof. L. Jay Guo**'s Research Group, University of Michigan
+
+*Topic: Laser-Driven Perfluorocarbon Droplet Cavitation Transfer*
+
+Developed analytical and COMSOL models linking laser heating and perfluorocarbon phase change to cavitation, jet formation, and transmitted loads. Examined finite PFC inventory and energy budgets, and compared liquid and hydrogel environments to guide transfer-printing experiments.
+
+**Expected arrival at University of Michigan in December, 2026.**
+
 ### Summer Research Assistant · July–October 2026
 
 **Prof. Changhong Linghu**'s Research Group, City University of Hong Kong
@@ -47,8 +47,8 @@ Developed analytical and COMSOL models linking laser heating and perfluorocarbon
 
 - Modeled compressible hyperelastic spheres beyond Hertz theory using analytical corrections and finite element simulation.
 - Prepared CAD models, 3D-printed molds, and foam hemispheres for displacement-controlled compression experiments.
-- Developed an adhesion framework separating bottom adhesion, sidewall shear and friction, and geometric interlocking.
-- Performed ABAQUS analyses of vertical and undercut sidewalls.
+- Built ABAQUS indentation models of a rigid chip pressed into a soft stamp; fitted a finite-radius stiffness law within 2.3% and built a large-deformation Explicit contact model.
+- Next step: split the pull-off force into bottom adhesion and sidewall shear and friction.
 
 ## Manuscript Under Review
 

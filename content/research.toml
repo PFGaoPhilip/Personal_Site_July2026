@@ -3,19 +3,6 @@ title = "Research Experience"
 description = "Experimental, analytical, and computational research in laser-driven transfer printing, cavitation, contact, and adhesion."
 
 [[items]]
-title = "Laser-Driven Perfluorocarbon Droplet Cavitation Transfer"
-subtitle = "Graduation Design · Exchange Visit to Prof. L. Jay Guo's Research Group, University of Michigan"
-date = "Sep 2026 - Present"
-content = '''
-**Topic:** Laser-Driven Perfluorocarbon Droplet Cavitation Transfer.
-
-**Contributions:** Developed analytical and COMSOL models linking laser heating and perfluorocarbon (PFC) phase change to cavitation, jet formation, and transmitted loads. Examined the role of finite PFC inventory and energy budgets, and compared liquid and hydrogel environments to guide transfer-printing experiments.
-
-**Expected arrival at University of Michigan in December, 2026.**
-'''
-tags = ["Laser Cavitation", "Perfluorocarbon Droplets", "Multiphysics Modeling", "COMSOL", "Transfer Printing"]
-
-[[items]]
 title = "Laser Droplet Transfer Printing"
 subtitle = "Undergraduate Researcher · Prof. Jizhou Song's Research Group, Zhejiang University"
 date = "Aug 2024 - Present"
@@ -31,6 +18,19 @@ content = '''
 tags = ["Transfer Printing", "Experimental Mechanics", "Droplet Stamps", "Interfacial Detachment"]
 
 [[items]]
+title = "Laser-Driven Perfluorocarbon Droplet Cavitation Transfer"
+subtitle = "Graduation Design · Exchange Visit to Prof. L. Jay Guo's Research Group, University of Michigan"
+date = "Sep 2026 - Present"
+content = '''
+**Topic:** Laser-Driven Perfluorocarbon Droplet Cavitation Transfer.
+
+**Contributions:** Developed analytical and COMSOL models linking laser heating and perfluorocarbon (PFC) phase change to cavitation, jet formation, and transmitted loads. Examined the role of finite PFC inventory and energy budgets, and compared liquid and hydrogel environments to guide transfer-printing experiments.
+
+**Expected arrival at University of Michigan in December, 2026.**
+'''
+tags = ["Laser Cavitation", "Perfluorocarbon Droplets", "Multiphysics Modeling", "COMSOL", "Transfer Printing"]
+
+[[items]]
 title = "Hyperelastic Contact and Laser-Transfer Adhesion"
 subtitle = "Summer Research Assistant · Prof. Changhong Linghu's Research Group, City University of Hong Kong"
 date = "Jul 2026 - Oct 2026"
@@ -39,6 +39,6 @@ content = '''
 
 **Hyperelastic contact:** Modeled low-Poisson-ratio compressible hyperelastic spheres beyond Hertz theory through analytical corrections and finite element simulation. Prepared CAD models, 3D-printed molds, and foam hemispheres for displacement-controlled compression experiments measuring force-displacement response and evolving contact geometry.
 
-**Confined adhesion:** Developed a framework separating bottom adhesion, sidewall shear and friction, and geometric interlocking. Performed ABAQUS analyses of vertical and undercut sidewalls to investigate confinement in laser transfer printing.
+**Confined contact:** Built ABAQUS indentation models of a rigid chip pressed into a soft stamp, fitted a finite-radius stiffness law within 2.3%, and built a large-deformation Explicit contact model. These are the baseline for the next step: splitting the pull-off force into bottom adhesion and sidewall shear and friction.
 '''
 tags = ["Contact Mechanics", "Hyperelasticity", "ABAQUS", "Adhesion", "Compression Experiments"]
