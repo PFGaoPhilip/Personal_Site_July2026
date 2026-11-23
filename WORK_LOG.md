@@ -18,3 +18,9 @@
 - Published the current CV at the neutral path `cv/Pengfei_Gao_CV.pdf`.
 - Labeled the public link `Download CV (PDF)`.
 - Updated the biography and repository documentation to describe the public download.
+
+## 2026-11-24 — Public CV replaced with the current application CV
+
+- Replaced `public/cv/Pengfei_Gao_CV.pdf` with the generic application CV of 2026-11-23 (SHA-256 prefix a3280fd6bc4c9bb6, 2 pages). It describes the droplet-transfer work as setting the process-parameter window for a successful release that leaves enough water on the stamp for the next cycle. It also carries the transcript GPA 3.89/4.3 and the current research and manuscript entries.
+- The previous site PDF (2026-11-17) is kept in `C:\PhD2027Fall\Intermediates\CV_ReleaseWindow_20261123\before\website\`.
+- `npm run build` passed; the exported `out/cv/Pengfei_Gao_CV.pdf` is byte-identical to the application CV, and the CV page still links to `/Personal_Site_July2026/cv/Pengfei_Gao_CV.pdf`.
